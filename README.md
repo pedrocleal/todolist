@@ -1,11 +1,11 @@
-<h1>TODOLIST APP<h1>
+<h1>TODOLIST APP</h1>
 
 TodoList App created while learning and practice VanillaJS.
 
 Main Reference:
 https://www.youtube.com/watch?v=Ttf3CEsEwMQ
 
-<h2>How to Run<h2>
+<h2>How to Run</h2>
 
 1 - Git clone the repository
 
